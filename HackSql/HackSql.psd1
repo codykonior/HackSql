@@ -12,7 +12,7 @@
     RootModule        = 'HackSql.psm1'
 
     # Version number of this module.
-    ModuleVersion     = '1.1.0'
+    ModuleVersion     = '1.1.1'
 
     # ID used to uniquely identify this module
     GUID              = 'd7c86398-e44a-4374-b7f9-a5240ad6f26b'
